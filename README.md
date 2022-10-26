@@ -5,3 +5,4 @@ A begginer friendly repository which helps the beginner to start their open sour
 3. Come back to this Hacktoberfest Repo.
 4. Click on Fork Repo.
 5. Add Different Types Of Algo (For Eg: BruteForce , Greedy etc) with your favourite language and start Pull Request! Have a great time doing it. 
+Thank 
