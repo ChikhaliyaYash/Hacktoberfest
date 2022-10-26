@@ -1,3 +1,4 @@
+//package com.company;
 class A
 {
 	int x;
