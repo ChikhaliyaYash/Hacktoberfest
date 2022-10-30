@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//using namespace std;
 int main()
 {
  int n, count = 0, swap = 0, compare = 0;
