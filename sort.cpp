@@ -17,6 +17,7 @@ int main()
  {
  count++; //for i<n
  key = arr[i];
+//int key, j;
  count++; //for key=arr[i]
  j = i;
  count++; //for j=i
